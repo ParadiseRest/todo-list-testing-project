@@ -8,7 +8,6 @@ This project involves manual testing of a simple To-Do List web application. The
 
 ## Testing Environment
 - **Browser Used**: Google Chrome
-- **Date of Testing**: 2024-10-16
 
 ## Test Cases
 All test cases passed without any issues. Detailed test cases are available in the `test_cases.md` file.
