@@ -1,12 +1,15 @@
 
-## Test Case 4: Edit a Task
-- **Test Case ID**: TC004
-- **Test Objective**: Verify that a user can edit an existing task.
-- **Precondition**: There is at least one task in the to-do list.
+## Test Case 5: Filter Tasks by Status
+- **Test Case ID**: TC005
+- **Test Objective**: Verify that the filtering options (all, active, completed) work correctly.
+- **Precondition**: There are tasks with different statuses in the list.
 - **Test Steps**:
-  1. Navigate to the task **"Buy groceries"**.
-  2. Double-click on the task name.
-  3. Change the task name to **"Buy groceries and fruits"** and press "Enter."
-- **Expected Result**: The task name is updated in the list.
-- **Actual Result**: The task name was successfully updated to "Buy groceries and fruits."
+  1. Navigate to the filter options (All, Active, Completed).
+  2. Select "Active."
+  3. Verify that only active tasks are displayed.
+  4. Select "Completed."
+  5. Verify that only completed tasks are displayed.
+  6. Select "All."
+- **Expected Result**: The list updates to show tasks based on the selected filter.
+- **Actual Result**: The filter options worked as expected, showing tasks based on the selection.
 - **Status**: Pass
