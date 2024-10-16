@@ -9,8 +9,8 @@
   2. Enter the task name **"Buy groceries"**.
   3. Press the "Enter" key.
 - **Expected Result**: The task "Buy groceries" is added to the list, and the input field is cleared.
-- **Actual Result**: The task was successfully added, and the input field cleared.
-- **Status**: Pass
+- **Actual Result**: (To be filled during testing)
+- **Status**: (Pass/Fail)
 
 ## Test Case 2: Mark a Task as Completed
 - **Test Case ID**: TC002
@@ -20,8 +20,8 @@
   1. Navigate to the list of tasks.
   2. Check the checkbox next to **"Buy groceries"**.
 - **Expected Result**: The task is marked as completed (should show a strike-through).
-- **Actual Result**: The task was successfully marked as completed with a strike-through.
-- **Status**: Pass
+- **Actual Result**: (To be filled during testing)
+- **Status**: (Pass/Fail)
 
 ## Test Case 3: Delete a Task
 - **Test Case ID**: TC003
@@ -31,8 +31,8 @@
   1. Navigate to the list of tasks.
   2. Click the **"Delete"** button (or icon) next to **"Buy groceries"**.
 - **Expected Result**: The task is removed from the list.
-- **Actual Result**: The task was successfully deleted from the list.
-- **Status**: Pass
+- **Actual Result**: (To be filled during testing)
+- **Status**: (Pass/Fail)
 
 ## Test Case 4: Edit a Task
 - **Test Case ID**: TC004
@@ -43,8 +43,8 @@
   2. Double-click on the task name.
   3. Change the task name to **"Buy groceries and fruits"** and press "Enter."
 - **Expected Result**: The task name is updated in the list.
-- **Actual Result**: The task name was successfully updated to "Buy groceries and fruits."
-- **Status**: Pass
+- **Actual Result**: (To be filled during testing)
+- **Status**: (Pass/Fail)
 
 ## Test Case 5: Filter Tasks by Status
 - **Test Case ID**: TC005
@@ -58,5 +58,5 @@
   5. Verify that only completed tasks are displayed.
   6. Select "All."
 - **Expected Result**: The list updates to show tasks based on the selected filter.
-- **Actual Result**: The filter options worked as expected, showing tasks based on the selection.
-- **Status**: Pass
+- **Actual Result**: (To be filled during testing)
+- **Status**: (Pass/Fail)
